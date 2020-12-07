@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/yg7i6bl8a591s8qr?svg=true)](https://ci.appveyor.com/project/Shushax/homeworkahj2-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/2uggb1xt39djt4fn?svg=true)](https://ci.appveyor.com/project/Shushax/homeworkahj-6-dnd)
 
-Ссылка на сайт - https://shushax.github.io/HomeWorkAHJ2-3-game-with-goblins-/
+Ссылка на сайт - https://shushax.github.io/HomeWorkAHJ_6_DnD/
